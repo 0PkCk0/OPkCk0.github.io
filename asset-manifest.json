@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/OPkCk0.github.io/static/css/main.63ffa884.css",
-    "main.js": "/OPkCk0.github.io/static/js/main.cda3546c.js",
+    "main.js": "/OPkCk0.github.io/static/js/main.04d508ff.js",
     "static/media/light.jpg": "/OPkCk0.github.io/static/media/light.7631766cb8fc9111f479.jpg",
     "static/media/dark.jpg": "/OPkCk0.github.io/static/media/dark.c10cefdda42f86f1b609.jpg",
     "service-worker.js": "/OPkCk0.github.io/service-worker.js",
@@ -10,10 +10,10 @@
     "static/media/logo.svg": "/OPkCk0.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/OPkCk0.github.io/index.html",
     "main.63ffa884.css.map": "/OPkCk0.github.io/static/css/main.63ffa884.css.map",
-    "main.cda3546c.js.map": "/OPkCk0.github.io/static/js/main.cda3546c.js.map"
+    "main.04d508ff.js.map": "/OPkCk0.github.io/static/js/main.04d508ff.js.map"
   },
   "entrypoints": [
     "static/css/main.63ffa884.css",
-    "static/js/main.cda3546c.js"
+    "static/js/main.04d508ff.js"
   ]
 }
